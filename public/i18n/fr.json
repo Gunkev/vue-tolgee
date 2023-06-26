@@ -1,0 +1,15 @@
+{
+  "documentation": "Documentacion",
+  "documentation_desc": "La documentation officielle de Vue vous fournit toutes les informations dont vous avez besoin pour commencer.",
+  "tooling": "Outillage",
+  "tooling_desc": "Ce projet est servi et groupé avec Vite. La configuration IDE recommandée est VSCode + Volar. Si vous avez besoin de tester vos composants et vos pages Web, consultez Cypress et Cypress Component Testing.",
+  "ecosystem": "Écosystème",
+  "ecosystem_desc": "Obtenez des outils et des bibliothèques officiels pour votre projet : Pinia, Vue Router, Vue Test Utils et Vue Dev Tools. Si vous avez besoin de plus de ressources, nous vous suggérons de rendre visite à Awesome Vue.",
+  "community": "Communauté",
+  "community_desc": "Est resté coincé? Posez votre question sur Vue Land, notre serveur Discord officiel, ou StackOverflow. Vous devez également vous inscrire à notre liste de diffusion et suivre le compte Twitter officiel @vuejs pour les dernières nouvelles du monde Vue.",
+  "support Vue": "Soutenir Vue",
+  "support Vue_desc": "En tant que projet indépendant, Vue s'appuie sur le soutien de la communauté pour sa durabilité. Vous pouvez nous aider en devenant parrain.",
+  "readme": "Plus d'instructions sont disponibles dans README.md.",
+  "success": "Vous avez réussi à créer un projet avec Vite + Vue 3",
+  "hello": "Bonjour"
+}
